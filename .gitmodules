@@ -1,0 +1,9 @@
+[submodule "linux-page-fault-profiler"]
+	path = linux-page-fault-profiler
+	url = https://github.com/nkaush/linux-page-fault-profiler.git
+[submodule "linux-rate-monotonic-scheduler"]
+	path = linux-rate-monotonic-scheduler
+	url = https://github.com/nkaush/linux-rate-monotonic-scheduler.git
+[submodule "linux-cpu-monitor"]
+	path = linux-cpu-monitor
+	url = https://github.com/nkaush/linux-cpu-monitor.git
